@@ -1,2 +1,2 @@
 # KommuneKredit-Hackathon-TestRepo
-Test at du can clone repository
+Tillykke! Hvis du kan læse denne fil, så har du gjort det rigtigt 🙌
